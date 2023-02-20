@@ -1,0 +1,125 @@
+@media (min-width:1440px) and (max-width:1920px){
+    .h-primary{
+        padding: 2%;
+    }
+    .card-body{
+        padding-top: 2%;
+    }
+    .inbox p {
+        padding-top: 69%;
+    }
+    .rectangle_2{
+        top: 120%;
+    }
+    .rectangle_3{
+        top: 145%;
+    }
+    .rectangle_4{
+        top: 170%;
+    }
+    .rectangle_5{
+        top: 195%;
+    }
+    .rectangle_6{
+        top: 220%;
+    }
+    .line_1{
+        top: 150%;
+    }
+    .line_2{
+        top: 13%;
+    }
+    .order_1 {
+        top: 11%;
+    }
+    .filter_1{
+        margin-top: 4%;
+    }
+    .frame_1{
+        top: 24%;
+    }
+    .frames{
+        margin: 14% 27%;
+    }
+    .shadow_1{
+        margin-top: 8%;
+    }
+    .box_1{
+       margin-top: 6%;
+    }
+    .star_1 {
+        width: 4vw;
+    }
+    
+    .star_2 {
+        width: 4vw;
+    }
+    
+    .star_3 {
+        width: 4vw;
+    }
+    
+    .star_4 {
+        width: 4vw;
+    }
+    
+    .star_5 {
+        width: 4vw;
+    }
+    .male_6{
+        margin: 37% 15%;
+    }
+    .shadow_1 h2{
+        margin: 39% 36%;
+    }
+    .shadow_1 p{
+        margin: 45% 36%;
+    }
+    .shadow_3{
+        margin-top: 43%;
+    }
+    .box_3{
+        margin-top: 40%;
+    }
+    .text_3 h3{
+        margin-top: 45%;
+    }
+    .frame_9{
+        margin-top: 40%;
+    }
+    .male_8{
+        margin: 43% 85%;
+    }
+    .card_2{
+        top: 250px;
+    }
+    .line_4{
+        top: 16%;
+    }
+    p.order-3{
+        top: 12%;
+    }
+    p.filter_3{
+        top: 13%;
+    }
+    .frame_10{
+
+    }
+    .frames_1{
+        gap: 200%
+         ;
+    }
+    .frame_11{
+top: 200px;
+    }
+    .frame_12{
+top: 240px;
+    }
+    .frame_13{
+        top: 300px;
+    }
+    .frame_14{
+        top: 360px;
+    }
+
+}
